@@ -59,4 +59,4 @@ Optional (but nice to have!) extras:
 
 ## :sos: How to get help
 
-If you're confused about anything, or just want a bit of a pointer for where to look for help, just ask in Slack! The teachers and staff will be hanging around in there and are more than happy to help!
+If you're confused about anything, or just want a bit of a pointer for where to look for help, just ask in Slack! Help each other and kick off the peer-to-peer learning already now. The teachers and staff will be hanging around in there and are more than happy to help if you can't solve it on your own between eachother.
